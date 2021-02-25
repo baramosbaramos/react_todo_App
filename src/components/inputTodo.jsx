@@ -22,6 +22,7 @@ export const InputTodo = (props) => {
       />
       <button onClick={onClick}>追加</button>
       <h1>this is new message.</h1>
+      <h1>this is second new message.</h1>
     </div>
   );
 };
