@@ -21,6 +21,7 @@ export const InputTodo = (props) => {
         onChange={onChange}
       />
       <button onClick={onClick}>追加</button>
+      <h1>this is new message.</h1>
     </div>
   );
 };
