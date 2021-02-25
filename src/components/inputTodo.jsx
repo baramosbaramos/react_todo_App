@@ -20,7 +20,7 @@ export const InputTodo = (props) => {
         value={todoText}
         onChange={onChange}
       />
-      <button onClick={onClick}>追加</button>
+      <button onClick={onClick}></button>
       <h1>this is new message.</h1>
       <h1>this is second new message.</h1>
     </div>
